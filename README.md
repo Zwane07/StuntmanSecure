@@ -13,5 +13,6 @@
   <img src="https://th.bing.com/th/id/OIP.xI28T0u8d33Sd9tgcVc-bQHaQT?cb=iwc2&pid=ImgDet&w=474&h=1043&rs=1"width="150" height="100"/>
     <a href="http://www.google.com">Click here to google</a>
     <a href="http//www.StuntmanSecure.com">Click here to go to Stunman Secure</a>
+    <a href="about.html">Click here to go to About us</a>
   </body>
 </html>
